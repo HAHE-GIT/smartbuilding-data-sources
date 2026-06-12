@@ -1,0 +1,203 @@
+{
+  "date": "2026-02-21",
+  "batiment": "Smart Building Genève",
+  "version_format": "1.0",
+  "logs": [
+    {
+      "ts": "2026-02-21T07:17:00+00:00",
+      "employe_id": 120,
+      "badge_id": "B120",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T07:44:00+00:00",
+      "employe_id": 134,
+      "badge_id": "B134",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T07:48:00+00:00",
+      "employe_id": 12,
+      "badge_id": "B012",
+      "porte": "service",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T07:50:00+00:00",
+      "employe_id": 96,
+      "badge_id": "B096",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T07:53:00+00:00",
+      "employe_id": 101,
+      "badge_id": "B101",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T08:01:00+00:00",
+      "employe_id": 107,
+      "badge_id": "B107",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T08:04:00+00:00",
+      "employe_id": 90,
+      "badge_id": "B090",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T08:06:00+00:00",
+      "employe_id": 1,
+      "badge_id": "B001",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T08:22:00+00:00",
+      "employe_id": 72,
+      "badge_id": "B072",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T08:25:00+00:00",
+      "employe_id": 58,
+      "badge_id": "B058",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T08:33:00+00:00",
+      "employe_id": 49,
+      "badge_id": "B049",
+      "porte": "service",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T09:05:00+00:00",
+      "employe_id": 27,
+      "badge_id": "B027",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T09:14:00+00:00",
+      "employe_id": 135,
+      "badge_id": "B135",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T09:55:00+00:00",
+      "employe_id": 57,
+      "badge_id": "B057",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-21T16:02:00+00:00",
+      "employe_id": 96,
+      "badge_id": "B096",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T16:11:00+00:00",
+      "employe_id": 134,
+      "badge_id": "B134",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T16:18:00+00:00",
+      "employe_id": 27,
+      "badge_id": "B027",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T16:26:00+00:00",
+      "employe_id": 90,
+      "badge_id": "B090",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T16:54:00+00:00",
+      "employe_id": 120,
+      "badge_id": "B120",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T17:03:00+00:00",
+      "employe_id": 1,
+      "badge_id": "B001",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T17:18:00+00:00",
+      "employe_id": 72,
+      "badge_id": "B072",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T17:22:00+00:00",
+      "employe_id": 12,
+      "badge_id": "B012",
+      "porte": "service",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T17:24:00+00:00",
+      "employe_id": 101,
+      "badge_id": "B101",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T17:30:00+00:00",
+      "employe_id": 107,
+      "badge_id": "B107",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T18:11:00+00:00",
+      "employe_id": 58,
+      "badge_id": "B058",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T18:12:00+00:00",
+      "employe_id": 49,
+      "badge_id": "B049",
+      "porte": "service",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T18:40:00+00:00",
+      "employe_id": 57,
+      "badge_id": "B057",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-21T18:46:00+00:00",
+      "employe_id": 135,
+      "badge_id": "B135",
+      "porte": "principale",
+      "type": "sortie"
+    }
+  ]
+}

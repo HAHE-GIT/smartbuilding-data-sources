@@ -3,7 +3,7 @@
   "version_format": "1.0",
   "events": [
     {
-      "ts": "2026-02-02T08:30:00+00:00",
+      "ts": "2026-02-02T08:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
@@ -12,25 +12,61 @@
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T08:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1093,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
       "ts": "2026-02-02T09:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1013,
+      "salle": "B.2190",
+      "valeur": 1001,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T09:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1043,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1048,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1010,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1073,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1080,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.3418",
@@ -39,47 +75,11 @@
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T09:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1068,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T09:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1046,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T09:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1061,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T09:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1098,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
       "ts": "2026-02-02T09:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1103,
+      "valeur": 1138,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -88,7 +88,25 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1150,
+      "valeur": 1114,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1158,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T09:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.1237",
+      "valeur": 1060,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -97,7 +115,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1117,
+      "valeur": 1154,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -106,16 +124,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 1150,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T09:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1043,
+      "valeur": 1070,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -124,7 +133,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1148,
+      "valeur": 1217,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -133,273 +142,156 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 1016,
+      "valeur": 1026,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T10:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1177,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1225,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1122,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1242,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1045,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1008,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1214,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1295,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1153,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1277,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1120,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1040,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1077,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1086,
+      "valeur": 1165,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1201,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1283,
+      "valeur": 1181,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 1375,
+      "valeur": 1127,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 1206,
+      "valeur": 1052,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1367,
+      "valeur": 1282,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 1196,
+      "valeur": 1101,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1035,
+      "valeur": 1018,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:30:00+00:00",
+      "ts": "2026-02-02T10:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1136,
+      "valeur": 1056,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1119,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1190,
+      "valeur": 1269,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1011,
+      "salle": "A.0460",
+      "valeur": 1244,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1324,
+      "valeur": 1260,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 1435,
+      "valeur": 1164,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 1276,
+      "valeur": 1118,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1432,
+      "valeur": 1377,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 1243,
+      "valeur": 1168,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T10:45:00+00:00",
+      "ts": "2026-02-02T10:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4251",
@@ -408,11 +300,173 @@
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
+      "ts": "2026-02-02T10:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 1120,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1373,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1286,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1329,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1201,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1179,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1412,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1196,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1197,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 1183,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1476,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1329,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1389,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1262,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1258,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1456,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1262,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T10:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1279,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
       "ts": "2026-02-02T10:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1199,
+      "valeur": 1263,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -421,7 +475,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.0208",
-      "valeur": 1161,
+      "valeur": 1072,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -429,436 +483,67 @@
       "ts": "2026-02-02T11:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1020,
+      "salle": "A.3277",
+      "valeur": 1019,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4179",
+      "valeur": 1528,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1414,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1449,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1332,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.3181",
       "valeur": 1293,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1075,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1085,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1394,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1492,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1320,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1506,
+      "valeur": 1521,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1319,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1133,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1067,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1397,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1160,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1122,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1440,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1580,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1346,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1581,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1376,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1182,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1115,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3277",
-      "valeur": 1012,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1449,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1203,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1196,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1500,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1641,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1377,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1626,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1414,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1063,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1162,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1140,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1233,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1574,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1697,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1425,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1696,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T11:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1461,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1146,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1210,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1192,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1053,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1307,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1615,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 1791,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1469,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 1790,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T12:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
@@ -867,29 +552,389 @@
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T12:00:00+00:00",
-      "level": "alert",
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4316",
+      "valeur": 1291,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1295,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 1010,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.0208",
+      "valeur": 1113,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1580,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1457,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
       "valeur": 1518,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T12:15:00+00:00",
+      "ts": "2026-02-02T11:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1188,
+      "salle": "A.3418",
+      "valeur": 1403,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T12:15:00+00:00",
+      "ts": "2026-02-02T11:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1258,
+      "salle": "B.3181",
+      "valeur": 1364,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1586,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1070,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1366,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1344,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 1026,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1631,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1542,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1592,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1435,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1412,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1671,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1088,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1423,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1360,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1735,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1585,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1022,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1671,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1473,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1438,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1721,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1115,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1489,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T11:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1409,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1787,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1628,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1712,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1543,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1513,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 1770,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1169,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1546,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1573,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 1162,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -898,16 +943,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1295,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1344,
+      "valeur": 1377,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -915,8 +951,17 @@
       "ts": "2026-02-02T12:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1713,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1675,
+      "valeur": 1767,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -925,7 +970,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 1885,
+      "valeur": 1590,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -934,7 +979,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 1535,
+      "valeur": 1583,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -943,7 +988,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1855,
+      "valeur": 1865,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -952,7 +997,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1034,
+      "valeur": 1187,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -961,52 +1006,25 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 1584,
+      "valeur": 1612,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T12:15:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1103,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1720,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T12:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1203,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1230,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1006,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3277",
-      "valeur": 1010,
+      "valeur": 1385,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1015,25 +1033,25 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1399,
+      "valeur": 1480,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T12:30:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1418,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "salle": "A.0460",
+      "valeur": 1798,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T12:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4122",
-      "valeur": 1028,
+      "salle": "B.1156",
+      "valeur": 1027,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1042,7 +1060,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1726,
+      "valeur": 1846,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1051,7 +1069,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 1945,
+      "valeur": 1683,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1060,7 +1078,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 1596,
+      "valeur": 1640,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1069,7 +1087,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 1925,
+      "valeur": 1950,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1078,7 +1096,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1088,
+      "valeur": 1214,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1093,19 +1111,28 @@
     },
     {
       "ts": "2026-02-02T12:30:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1316,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1981,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T12:30:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1362,
+      "valeur": 1560,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T12:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1162,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1113,8 +1140,8 @@
       "ts": "2026-02-02T12:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1271,
+      "salle": "A.0460",
+      "valeur": 1385,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1122,7 +1149,7 @@
       "ts": "2026-02-02T12:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.3264",
+      "salle": "A.4122",
       "valeur": 1054,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
@@ -1131,17 +1158,8 @@
       "ts": "2026-02-02T12:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1105,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T12:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1492,
+      "salle": "B.1156",
+      "valeur": 1243,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1150,7 +1168,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1763,
+      "valeur": 1878,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1159,7 +1177,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2034,
+      "valeur": 1740,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1168,7 +1186,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 1636,
+      "valeur": 1715,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1177,7 +1195,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2000,
+      "valeur": 2044,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1186,7 +1204,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1133,
+      "valeur": 1250,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1195,7 +1213,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 1669,
+      "valeur": 1717,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1204,7 +1222,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1626,
+      "valeur": 2275,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1213,7 +1231,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1616,
+      "valeur": 1878,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1221,26 +1239,8 @@
       "ts": "2026-02-02T13:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1355,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1102,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1157,
+      "valeur": 1214,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1249,25 +1249,16 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0460",
-      "valeur": 1077,
+      "valeur": 1470,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T13:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1566,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1022,
+      "salle": "A.2239",
+      "valeur": 1009,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1276,7 +1267,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 1832,
+      "valeur": 1924,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1285,7 +1276,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2104,
+      "valeur": 1772,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1294,7 +1285,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 1702,
+      "valeur": 1776,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1303,372 +1294,12 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2094,
+      "valeur": 2134,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T13:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1178,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1735,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1822,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1743,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1396,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1149,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1209,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1162,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1603,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1205,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1901,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2184,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1759,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2179,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1232,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1802,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 2018,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1982,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1438,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1261,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1640,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1315,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1938,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2226,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1838,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2249,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1277,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 1858,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 2230,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 2204,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1521,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1046,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1312,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1025,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1713,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1046,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 1994,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2292,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1881,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2289,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T13:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
@@ -1677,11 +1308,335 @@
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
+      "ts": "2026-02-02T13:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1783,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 2552,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 2196,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1266,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1556,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1089,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 1971,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1810,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1829,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 2229,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1322,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1821,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 2813,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 2514,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1369,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1598,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1182,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2007,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1899,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1864,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 2284,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1349,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 1896,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 2993,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 2705,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1035,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1421,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1049,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1245,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1028,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1305,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2063,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 1978,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 1917,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 2373,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T13:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1404,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
       "ts": "2026-02-02T13:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 1934,
+      "valeur": 1953,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1690,7 +1645,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 2524,
+      "valeur": 3000,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1699,7 +1654,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 2395,
+      "valeur": 3000,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1707,26 +1662,8 @@
       "ts": "2026-02-02T14:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1191,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1076,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
       "salle": "C.3264",
-      "valeur": 1026,
+      "valeur": 1083,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1734,17 +1671,8 @@
       "ts": "2026-02-02T14:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1045,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4433",
-      "valeur": 1004,
+      "salle": "A.3277",
+      "valeur": 1054,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1752,8 +1680,8 @@
       "ts": "2026-02-02T14:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1787,
+      "salle": "C.4179",
+      "valeur": 1525,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1761,8 +1689,35 @@
       "ts": "2026-02-02T14:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1120,
+      "salle": "B.4433",
+      "valeur": 1085,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1287,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1102,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1040,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1771,7 +1726,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2072,
+      "valeur": 2132,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1780,7 +1735,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2371,
+      "valeur": 2058,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1798,7 +1753,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2333,
+      "valeur": 2418,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1807,7 +1762,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1331,
+      "valeur": 1458,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -1816,142 +1771,124 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
+      "valeur": 2019,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 2226,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1131,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3277",
+      "valeur": 1112,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1576,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1156,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1373,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2164,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 2104,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
       "valeur": 2000,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T14:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 2540,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1803,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1232,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1106,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1073,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.1304",
-      "valeur": 1025,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1148,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1861,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1302,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 2146,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2404,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 1987,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
       "ts": "2026-02-02T14:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2383,
+      "valeur": 2513,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T14:15:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1368,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1503,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T14:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 2057,
+      "valeur": 2048,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1960,7 +1897,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 2556,
+      "valeur": 2226,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1969,7 +1906,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1850,
+      "valeur": 2258,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -1977,35 +1914,17 @@
       "ts": "2026-02-02T14:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1136,
+      "salle": "A.3277",
+      "valeur": 1171,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T14:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1121,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1200,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1935,
+      "valeur": 1628,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2013,143 +1932,98 @@
       "ts": "2026-02-02T14:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4122",
-      "valeur": 1109,
+      "salle": "B.4433",
+      "valeur": 1227,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T14:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1448,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 2197,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2441,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 2013,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2453,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1395,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2095,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 2589,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1898,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1030,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1167,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1169,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1252,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0460",
-      "valeur": 1014,
+      "valeur": 1458,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T14:45:00+00:00",
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1070,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 2009,
+      "salle": "B.2190",
+      "valeur": 2215,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 2165,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 2026,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 2558,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1548,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2123,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 2275,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 2274,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2157,19 +2031,37 @@
       "ts": "2026-02-02T14:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4122",
-      "valeur": 1172,
+      "salle": "A.3277",
+      "valeur": 1230,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T14:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1680,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.1237",
-      "valeur": 1140,
+      "salle": "B.4433",
+      "valeur": 1263,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T14:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1501,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T14:45:00+00:00",
@@ -2185,7 +2077,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2474,
+      "valeur": 2217,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2194,7 +2086,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2057,
+      "valeur": 2092,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2203,156 +2095,21 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2518,
+      "valeur": 2617,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T14:45:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1413,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2152,
+      "valeur": 1566,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T14:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1938,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T14:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1455,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1072,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1197,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1216,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1355,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4433",
-      "valeur": 1007,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1099,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1532,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 2317,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2563,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 2110,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2613,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1458,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
@@ -2361,11 +2118,20 @@
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T15:00:00+00:00",
+      "ts": "2026-02-02T14:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1971,
+      "valeur": 1718,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T14:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.4402",
+      "valeur": 1718,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2373,8 +2139,116 @@
       "ts": "2026-02-02T15:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1013,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1732,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1334,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1586,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2312,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 2268,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 2123,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 2712,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1602,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2265,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1329,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T15:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1486,
+      "valeur": 1765,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T15:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1060,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -2382,17 +2256,8 @@
       "ts": "2026-02-02T15:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1155,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1227,
+      "salle": "A.3277",
+      "valeur": 1046,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -2401,7 +2266,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1459,
+      "valeur": 1338,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -2410,16 +2275,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4433",
-      "valeur": 1078,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1142,
+      "valeur": 1406,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -2427,26 +2283,17 @@
       "ts": "2026-02-02T15:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1606,
+      "salle": "A.0460",
+      "valeur": 1629,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4122",
-      "valeur": 1176,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2377,
+      "valeur": 2354,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2455,7 +2302,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2619,
+      "valeur": 2315,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2464,7 +2311,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2189,
+      "valeur": 2180,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2473,88 +2320,79 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2662,
+      "valeur": 2767,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T15:15:00+00:00",
-      "level": "warning",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1485,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1620,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T15:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 2275,
+      "valeur": 2322,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T15:15:00+00:00",
-      "level": "alert",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 2004,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
+      "valeur": 1362,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1502,
+      "valeur": 1781,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1257,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.3264",
-      "valeur": 1025,
+      "valeur": 1108,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:30:00+00:00",
-      "level": "alert",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3277",
+      "valeur": 1104,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T15:30:00+00:00",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1511,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
+      "valeur": 1442,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4433",
-      "valeur": 1114,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1185,
+      "valeur": 1441,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -2562,35 +2400,17 @@
       "ts": "2026-02-02T15:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1680,
+      "salle": "A.0460",
+      "valeur": 1714,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4122",
-      "valeur": 1260,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.1156",
-      "valeur": 1112,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2446,
+      "valeur": 2423,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2599,7 +2419,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2694,
+      "valeur": 2367,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2608,7 +2428,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2250,
+      "valeur": 2224,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2617,7 +2437,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2697,
+      "valeur": 2832,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2626,7 +2446,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1521,
+      "valeur": 1674,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -2641,28 +2461,37 @@
     },
     {
       "ts": "2026-02-02T15:30:00+00:00",
-      "level": "alert",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1529,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
+      "valeur": 1394,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:30:00+00:00",
-      "level": "alert",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1550,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
+      "valeur": 1373,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
       "ts": "2026-02-02T15:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1317,
+      "salle": "C.3264",
+      "valeur": 1155,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T15:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0357",
+      "valeur": 1044,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -2671,96 +2500,6 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1614,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4433",
-      "valeur": 1150,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1754,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4122",
-      "valeur": 1008,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 2510,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2727,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 2307,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2737,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1575,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2426,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T15:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
       "valeur": 1545,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
@@ -2769,445 +2508,265 @@
       "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1582,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1348,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1666,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
       "salle": "B.4433",
-      "valeur": 1185,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1828,
+      "valeur": 1513,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:00:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 2584,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 2820,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 2382,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 2787,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1620,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2455,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1594,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1614,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1378,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.3277",
-      "valeur": 1018,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1769,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4433",
-      "valeur": 1221,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0460",
-      "valeur": 1041,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1757,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1406,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:15:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2644,
+      "valeur": 2460,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2914,
+      "valeur": 2460,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2448,
+      "valeur": 2294,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2832,
+      "valeur": 2867,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1647,
+      "valeur": 1710,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
+      "ts": "2026-02-02T15:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 2483,
+      "valeur": 2379,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "alert",
+      "ts": "2026-02-02T15:45:00+00:00",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4251",
-      "valeur": 1643,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
+      "valeur": 1102,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T16:15:00+00:00",
-      "level": "alert",
+      "ts": "2026-02-02T15:45:00+00:00",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1645,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1090,
+      "valeur": 1087,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.3277",
-      "valeur": 1076,
+      "salle": "C.3264",
+      "valeur": 1203,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1821,
+      "valeur": 1649,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
-      "level": "warning",
+      "ts": "2026-02-02T16:00:00+00:00",
+      "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1442,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "salle": "B.4433",
+      "valeur": 1584,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
-      "level": "warning",
+      "ts": "2026-02-02T16:00:00+00:00",
+      "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.1156",
-      "valeur": 1006,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "salle": "A.0460",
+      "valeur": 1842,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2709,
+      "valeur": 2506,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 2961,
+      "valeur": 2549,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2518,
+      "valeur": 2356,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
-      "valeur": 2921,
+      "valeur": 2902,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
+      "valeur": 1756,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2445,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1118,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T16:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1251,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T16:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3277",
+      "valeur": 1016,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T16:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
       "valeur": 1701,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:30:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2511,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1676,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1278,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1151,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1034,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1925,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T16:45:00+00:00",
-      "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4433",
-      "valeur": 1052,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1620,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
-      "level": "warning",
+      "ts": "2026-02-02T16:15:00+00:00",
+      "level": "alert",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1136,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "salle": "A.0460",
+      "valeur": 1885,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.1156",
-      "valeur": 1222,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2741,
+      "valeur": 2552,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 3000,
+      "valeur": 2643,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2553,
+      "valeur": 2413,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
@@ -3216,115 +2775,97 @@
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1737,
+      "valeur": 1801,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 2568,
+      "valeur": 2493,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1299,
+      "salle": "C.3264",
+      "valeur": 1298,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T16:45:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1294,
+      "salle": "A.3277",
+      "valeur": 1075,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1030,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1211,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:00:00+00:00",
-      "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1976,
+      "valeur": 1316,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T16:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1691,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
-      "level": "warning",
+      "ts": "2026-02-02T16:30:00+00:00",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0460",
-      "valeur": 1025,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1928,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1173,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2792,
+      "valeur": 2584,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 3000,
+      "valeur": 2736,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2592,
+      "valeur": 2478,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
@@ -3333,16 +2874,106 @@
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1765,
+      "valeur": 1819,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:00:00+00:00",
+      "ts": "2026-02-02T16:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2530,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1346,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1420,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1726,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 2013,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2658,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 2816,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 2535,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1864,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T16:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
@@ -3354,8 +2985,8 @@
       "ts": "2026-02-02T17:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "B.4251",
-      "valeur": 1035,
+      "salle": "C.3264",
+      "valeur": 1394,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -3363,85 +2994,76 @@
       "ts": "2026-02-02T17:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1326,
+      "salle": "C.4179",
+      "valeur": 1472,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1071,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1241,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 2080,
+      "salle": "B.4433",
+      "valeur": 1762,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
-      "level": "warning",
+      "ts": "2026-02-02T17:00:00+00:00",
+      "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0460",
-      "valeur": 1068,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
+      "valeur": 1535,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "B.4420",
-      "valeur": 1247,
+      "salle": "B.2465",
+      "valeur": 1011,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1003,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2857,
+      "valeur": 2690,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 3000,
+      "valeur": 2853,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2641,
+      "valeur": 2566,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
@@ -3450,16 +3072,16 @@
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1801,
+      "valeur": 1909,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:15:00+00:00",
+      "ts": "2026-02-02T17:00:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
@@ -3471,76 +3093,76 @@
       "ts": "2026-02-02T17:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1373,
+      "salle": "C.3264",
+      "valeur": 1441,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1113,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1272,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T17:30:00+00:00",
-      "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 2132,
+      "valeur": 1156,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1359,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:15:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1620,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.0460",
-      "valeur": 1153,
+      "salle": "B.1156",
+      "valeur": 1065,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2889,
+      "valeur": 2732,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.3418",
-      "valeur": 3000,
+      "valeur": 2891,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2671,
+      "valeur": 2645,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.2107",
@@ -3549,16 +3171,16 @@
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1846,
+      "valeur": 1954,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:30:00+00:00",
+      "ts": "2026-02-02T17:15:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
@@ -3567,38 +3189,128 @@
       "description": "Concentration CO2 critique"
     },
     {
+      "ts": "2026-02-02T17:15:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4251",
+      "valeur": 1007,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
       "ts": "2026-02-02T17:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.4402",
-      "valeur": 1405,
+      "salle": "C.3264",
+      "valeur": 1489,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:45:00+00:00",
+      "ts": "2026-02-02T17:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1332,
+      "salle": "C.4179",
+      "valeur": 1260,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T17:45:00+00:00",
+      "ts": "2026-02-02T17:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "A.0357",
-      "valeur": 1022,
+      "salle": "B.4433",
+      "valeur": 1431,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1260,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1060,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.1156",
+      "valeur": 1158,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2787,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 2942,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 2676,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1981,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T17:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2786,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
     },
     {
       "ts": "2026-02-02T17:45:00+00:00",
       "level": "alert",
       "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 2235,
+      "salle": "C.3264",
+      "valeur": 1536,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3606,8 +3318,26 @@
       "ts": "2026-02-02T17:45:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1311,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
       "salle": "B.4433",
-      "valeur": 1041,
+      "valeur": 1466,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T17:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1303,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -3616,7 +3346,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4420",
-      "valeur": 1072,
+      "valeur": 1097,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -3625,7 +3355,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 2926,
+      "valeur": 2847,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3643,7 +3373,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2746,
+      "valeur": 2720,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3661,7 +3391,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1891,
+      "valeur": 2008,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3670,115 +3400,151 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 2767,
+      "valeur": 2814,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
     {
-      "ts": "2026-02-02T17:45:00+00:00",
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1584,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.1304",
+      "valeur": 1027,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1415,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1502,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1346,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1171,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2875,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 2777,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 2035,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2852,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.4402",
-      "valeur": 1110,
+      "valeur": 1014,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1392,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
+      "ts": "2026-02-02T18:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.3264",
-      "valeur": 1040,
+      "valeur": 1235,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
+      "ts": "2026-02-02T18:15:00+00:00",
+      "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1691,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
+      "valeur": 1467,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
     },
     {
-      "ts": "2026-02-02T18:00:00+00:00",
+      "ts": "2026-02-02T18:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
       "salle": "B.4433",
-      "valeur": 1076,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 2995,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 3000,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 2781,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 3000,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 1945,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:00:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2833,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1030,
+      "valeur": 1177,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -3786,8 +3552,8 @@
       "ts": "2026-02-02T18:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1422,
+      "salle": "A.0460",
+      "valeur": 1431,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -3795,26 +3561,8 @@
       "ts": "2026-02-02T18:15:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1088,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:15:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1742,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:15:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2465",
-      "valeur": 1017,
+      "salle": "B.4420",
+      "valeur": 1245,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -3823,7 +3571,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.2190",
-      "valeur": 3000,
+      "valeur": 2940,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3841,7 +3589,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "B.3181",
-      "valeur": 2816,
+      "valeur": 2843,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3859,7 +3607,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1990,
+      "valeur": 2071,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3868,7 +3616,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "C.4316",
-      "valeur": 2899,
+      "valeur": 2890,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -3876,152 +3624,179 @@
       "ts": "2026-02-02T18:30:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.0208",
+      "salle": "C.3264",
+      "valeur": 1282,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3277",
+      "valeur": 1058,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1519,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4433",
+      "valeur": 1213,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1516,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2465",
+      "valeur": 1012,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1282,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.2190",
+      "valeur": 2981,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.3418",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "B.3181",
+      "valeur": 2900,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.2107",
+      "valeur": 3000,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 2126,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:30:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4316",
+      "valeur": 2947,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "C.3264",
+      "valeur": 1330,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.3277",
+      "valeur": 1117,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "alert",
+      "type": "co2_eleve",
+      "salle": "C.4179",
+      "valeur": 1570,
+      "seuil": 1500,
+      "description": "Concentration CO2 critique"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0460",
+      "valeur": 1187,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.2465",
+      "valeur": 1047,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1319,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T18:45:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.3471",
       "valeur": 1072,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1453,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1135,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1794,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2465",
-      "valeur": 1053,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.2190",
-      "valeur": 3000,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.3418",
-      "valeur": 3000,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "B.3181",
-      "valeur": 2887,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.2107",
-      "valeur": 3000,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "A.0366",
-      "valeur": 2017,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:30:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.4316",
-      "valeur": 2956,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.0208",
-      "valeur": 1155,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:45:00+00:00",
-      "level": "alert",
-      "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1513,
-      "seuil": 1500,
-      "description": "Concentration CO2 critique"
-    },
-    {
-      "ts": "2026-02-02T18:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.3264",
-      "valeur": 1183,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "C.4179",
-      "valeur": 1382,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "B.2465",
-      "valeur": 1088,
-      "seuil": 1000,
-      "description": "Concentration CO2 supérieure au seuil de confort"
-    },
-    {
-      "ts": "2026-02-02T18:45:00+00:00",
-      "level": "warning",
-      "type": "co2_eleve",
-      "salle": "A.2239",
-      "valeur": 1046,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -4066,7 +3841,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 2062,
+      "valeur": 2162,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -4083,8 +3858,8 @@
       "ts": "2026-02-02T19:00:00+00:00",
       "level": "warning",
       "type": "co2_eleve",
-      "salle": "C.2161",
-      "valeur": 1185,
+      "salle": "C.3264",
+      "valeur": 1057,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -4093,7 +3868,16 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "C.4179",
-      "valeur": 1093,
+      "valeur": 1225,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T19:00:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "B.4420",
+      "valeur": 1049,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -4138,7 +3922,7 @@
       "level": "alert",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1570,
+      "valeur": 1639,
       "seuil": 1500,
       "description": "Concentration CO2 critique"
     },
@@ -4192,7 +3976,7 @@
       "level": "warning",
       "type": "co2_eleve",
       "salle": "A.0366",
-      "valeur": 1225,
+      "valeur": 1273,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },
@@ -4238,6 +4022,15 @@
       "type": "co2_eleve",
       "salle": "A.2107",
       "valeur": 1305,
+      "seuil": 1000,
+      "description": "Concentration CO2 supérieure au seuil de confort"
+    },
+    {
+      "ts": "2026-02-02T19:30:00+00:00",
+      "level": "warning",
+      "type": "co2_eleve",
+      "salle": "A.0366",
+      "valeur": 1017,
       "seuil": 1000,
       "description": "Concentration CO2 supérieure au seuil de confort"
     },

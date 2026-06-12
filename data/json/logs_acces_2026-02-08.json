@@ -1,0 +1,329 @@
+{
+  "date": "2026-02-08",
+  "batiment": "Smart Building Genève",
+  "version_format": "1.0",
+  "logs": [
+    {
+      "ts": "2026-02-08T07:06:00+00:00",
+      "employe_id": 67,
+      "badge_id": "B067",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T07:42:00+00:00",
+      "employe_id": 90,
+      "badge_id": "B090",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T07:49:00+00:00",
+      "employe_id": 58,
+      "badge_id": "B058",
+      "porte": "parking",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T07:54:00+00:00",
+      "employe_id": 130,
+      "badge_id": "B130",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T07:55:00+00:00",
+      "employe_id": 92,
+      "badge_id": "B092",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T07:58:00+00:00",
+      "employe_id": 72,
+      "badge_id": "B072",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T07:58:00+00:00",
+      "employe_id": 127,
+      "badge_id": "B127",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:01:00+00:00",
+      "employe_id": 142,
+      "badge_id": "B142",
+      "porte": "parking",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:06:00+00:00",
+      "employe_id": 69,
+      "badge_id": "B069",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:10:00+00:00",
+      "employe_id": 1,
+      "badge_id": "B001",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:14:00+00:00",
+      "employe_id": 76,
+      "badge_id": "B076",
+      "porte": "parking",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:16:00+00:00",
+      "employe_id": 24,
+      "badge_id": "B024",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:18:00+00:00",
+      "employe_id": 114,
+      "badge_id": "B114",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:34:00+00:00",
+      "employe_id": 146,
+      "badge_id": "B146",
+      "porte": "parking",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:45:00+00:00",
+      "employe_id": 45,
+      "badge_id": "B045",
+      "porte": "parking",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T08:56:00+00:00",
+      "employe_id": 23,
+      "badge_id": "B023",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:03:00+00:00",
+      "employe_id": 5,
+      "badge_id": "B005",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:08:00+00:00",
+      "employe_id": 53,
+      "badge_id": "B053",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:10:00+00:00",
+      "employe_id": 113,
+      "badge_id": "B113",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:12:00+00:00",
+      "employe_id": 143,
+      "badge_id": "B143",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:13:00+00:00",
+      "employe_id": 100,
+      "badge_id": "B100",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:23:00+00:00",
+      "employe_id": 128,
+      "badge_id": "B128",
+      "porte": "principale",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T09:24:00+00:00",
+      "employe_id": 36,
+      "badge_id": "B036",
+      "porte": "parking",
+      "type": "entree"
+    },
+    {
+      "ts": "2026-02-08T16:13:00+00:00",
+      "employe_id": 72,
+      "badge_id": "B072",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T16:14:00+00:00",
+      "employe_id": 130,
+      "badge_id": "B130",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T16:15:00+00:00",
+      "employe_id": 67,
+      "badge_id": "B067",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T16:52:00+00:00",
+      "employe_id": 69,
+      "badge_id": "B069",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T16:59:00+00:00",
+      "employe_id": 24,
+      "badge_id": "B024",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T16:59:00+00:00",
+      "employe_id": 58,
+      "badge_id": "B058",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:10:00+00:00",
+      "employe_id": 92,
+      "badge_id": "B092",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:12:00+00:00",
+      "employe_id": 142,
+      "badge_id": "B142",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:16:00+00:00",
+      "employe_id": 45,
+      "badge_id": "B045",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:21:00+00:00",
+      "employe_id": 127,
+      "badge_id": "B127",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:23:00+00:00",
+      "employe_id": 90,
+      "badge_id": "B090",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:27:00+00:00",
+      "employe_id": 146,
+      "badge_id": "B146",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:36:00+00:00",
+      "employe_id": 1,
+      "badge_id": "B001",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T17:42:00+00:00",
+      "employe_id": 53,
+      "badge_id": "B053",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:03:00+00:00",
+      "employe_id": 76,
+      "badge_id": "B076",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:06:00+00:00",
+      "employe_id": 5,
+      "badge_id": "B005",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:07:00+00:00",
+      "employe_id": 114,
+      "badge_id": "B114",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:13:00+00:00",
+      "employe_id": 113,
+      "badge_id": "B113",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:13:00+00:00",
+      "employe_id": 143,
+      "badge_id": "B143",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:14:00+00:00",
+      "employe_id": 23,
+      "badge_id": "B023",
+      "porte": "parking",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:27:00+00:00",
+      "employe_id": 100,
+      "badge_id": "B100",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T18:49:00+00:00",
+      "employe_id": 128,
+      "badge_id": "B128",
+      "porte": "principale",
+      "type": "sortie"
+    },
+    {
+      "ts": "2026-02-08T19:06:00+00:00",
+      "employe_id": 36,
+      "badge_id": "B036",
+      "porte": "parking",
+      "type": "sortie"
+    }
+  ]
+}

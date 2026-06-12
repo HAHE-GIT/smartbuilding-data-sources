@@ -1,0 +1,104 @@
+date,salle,organisateur,debut,fin,motif,nb_participants_prevu
+2026-04-20,A.2239,Sarah Rousseau,08:00,09:00,Onboarding,10
+2026-04-20,C.4145,Sarah Garcia,08:15,09:00,Réunion 1-1,4
+2026-04-20,B.2135,Fabien Dupont,08:45,10:45,Daily standup,3
+2026-04-20,A.4122,Olivier Mathieu,08:45,10:45,Réunion 1-1,5
+2026-04-20,A.2239,Antoine Simon,09:30,10:00,Comité de pilotage,8
+2026-04-20,B.1156,Jean Fontaine,09:30,10:30,Comité de pilotage,7
+2026-04-20,A.1237,Quentin Bonnet,09:45,10:45,Rétrospective,2
+2026-04-20,B.1156,Benoit Blanc,11:15,11:45,Rétrospective,7
+2026-04-20,C.1209,Aurélie Nicolas,12:00,13:30,Rétrospective,5
+2026-04-20,C.4145,Jean Durand,12:00,12:45,Présentation résultats,6
+2026-04-20,B.3471,Julie Perrin,13:00,14:00,Comité de pilotage,7
+2026-04-20,C.1209,Aurélie Girard,13:30,14:30,Réunion équipe,3
+2026-04-20,B.1156,Luc Chevalier,13:30,15:30,Atelier client,7
+2026-04-20,A.2239,Aurélie Fournier,14:00,14:30,Atelier client,3
+2026-04-20,A.3418,Romain Dupuis,14:00,17:00,Demo produit,13
+2026-04-20,A.4122,Claire Dupont,15:00,17:00,Réunion 1-1,7
+2026-04-20,A.1237,Inès Gautier,15:30,16:15,Réunion 1-1,6
+2026-04-20,B.2135,Camille Laurent,16:30,18:00,Présentation résultats,3
+2026-04-21,B.2135,Olivier Roux,08:30,10:00,Brainstorming,3
+2026-04-21,B.1156,Cédric André,08:45,09:30,Présentation résultats,4
+2026-04-21,A.2107,Sébastien Henry,09:00,10:00,Onboarding,17
+2026-04-21,A.1237,Antoine Simon,09:15,11:15,Entretien candidat,4
+2026-04-21,C.4145,Charlotte Durand,09:30,10:30,Brainstorming,4
+2026-04-21,B.2135,Chloé Roux,10:15,11:15,Comité de pilotage,3
+2026-04-21,C.1209,Jean Durand,10:30,12:30,Revue d'architecture,4
+2026-04-21,A.2239,Luc Chevalier,11:00,13:00,Présentation résultats,5
+2026-04-21,B.1156,Justine Leroy,11:00,11:30,Sprint planning,5
+2026-04-21,C.4145,Caroline Fournier,12:30,14:00,Atelier client,5
+2026-04-21,B.2135,Nathalie Vincent,13:00,14:00,Entretien candidat,4
+2026-04-21,B.3471,Sarah Rousseau,13:30,14:15,Onboarding,4
+2026-04-21,B.3471,Caroline Garcia,14:15,16:15,Formation interne,9
+2026-04-21,C.1209,Luc Perrin,14:30,15:30,Demo produit,9
+2026-04-21,C.4145,Justine Leroy,15:00,15:45,Onboarding,6
+2026-04-21,A.3418,Aurélie Fournier,15:00,18:00,Entretien candidat,7
+2026-04-21,A.4122,Marion Robin,15:15,16:15,Présentation résultats,2
+2026-04-21,A.2239,Thomas Morel,15:45,17:15,Onboarding,3
+2026-04-22,B.1156,Charlotte Durand,08:00,08:45,Rétrospective,2
+2026-04-22,C.1209,Mathilde Roussel,08:15,08:45,Comité de pilotage,6
+2026-04-22,C.1209,Olivier Roux,08:45,09:30,Daily standup,4
+2026-04-22,A.2239,Luc François,09:00,11:00,Formation interne,8
+2026-04-22,C.4316,Charlotte Girard,09:00,10:00,Atelier client,10
+2026-04-22,B.1156,Romain Bonnet,09:30,11:00,Daily standup,7
+2026-04-22,A.4122,Benoit Girard,09:45,10:15,Onboarding,9
+2026-04-22,C.4145,Isabelle Morin,09:45,10:15,Brainstorming,6
+2026-04-22,B.2135,Pauline Blanc,10:00,10:30,Onboarding,4
+2026-04-22,A.1237,Chloé Lefevre,10:00,11:30,Présentation résultats,4
+2026-04-22,B.2135,Romain Lefevre,10:30,12:30,Entretien candidat,5
+2026-04-22,B.3471,Léa Legrand,10:30,11:30,Sprint planning,6
+2026-04-22,C.1209,Sarah Rousseau,10:45,12:15,Réunion 1-1,4
+2026-04-22,C.4145,Léa Girard,11:45,12:15,Présentation résultats,3
+2026-04-22,B.3471,Olivier Perrin,13:30,14:15,Atelier client,3
+2026-04-22,B.2135,Justine Chevalier,14:00,15:30,Présentation résultats,4
+2026-04-22,A.2239,Fabien Boyer,14:15,14:45,Réunion équipe,8
+2026-04-22,A.1237,Marie Fontaine,14:45,15:45,Réunion 1-1,7
+2026-04-22,B.1156,Sophie Lefebvre,15:30,17:00,Formation interne,6
+2026-04-22,C.4145,Aurélie Durand,15:45,17:45,Sprint planning,2
+2026-04-22,A.2239,Aurélie Fournier,16:00,16:45,Brainstorming,10
+2026-04-22,A.3418,Charlotte Robin,16:00,17:00,Réunion 1-1,17
+2026-04-22,A.1237,Laurent Gauthier,16:15,17:00,Daily standup,3
+2026-04-22,C.1209,Cédric Muller,16:45,18:15,Onboarding,2
+2026-04-23,C.4145,Thomas Fontaine,08:00,09:30,Entretien candidat,2
+2026-04-23,B.1156,Justine Chevalier,09:00,09:45,Demo produit,5
+2026-04-23,B.2135,Claire Dupont,10:15,12:15,Formation interne,4
+2026-04-23,B.1156,Sophie Lefebvre,10:30,12:30,Atelier client,5
+2026-04-23,A.0366,Charlotte Robin,11:00,14:00,Réunion équipe,7
+2026-04-23,A.2107,Lucas Garcia,12:00,15:00,Réunion équipe,16
+2026-04-23,B.2135,Jean Fontaine,12:15,13:00,Onboarding,5
+2026-04-23,A.1237,Aurélie Girard,12:45,13:15,Réunion équipe,7
+2026-04-23,A.4122,Charlotte Robin,13:00,13:45,Formation interne,12
+2026-04-23,A.2239,Mathilde Fontaine,13:15,14:45,Atelier client,8
+2026-04-23,C.4145,Mathilde Bertrand,13:45,15:45,Sprint planning,5
+2026-04-23,C.1209,Élodie Girard,14:00,16:00,Atelier client,4
+2026-04-23,A.4122,Mathieu François,14:30,16:30,Présentation résultats,11
+2026-04-23,B.3471,Pauline Legrand,15:15,15:45,Onboarding,4
+2026-04-23,B.3471,Sarah Faure,15:45,17:45,Formation interne,4
+2026-04-23,B.1156,Mathilde Bertrand,15:45,16:30,Comité de pilotage,4
+2026-04-23,A.1237,Nathalie Dupont,16:15,18:15,Entretien candidat,8
+2026-04-24,A.1237,Aurélie Durand,08:00,09:00,Demo produit,7
+2026-04-24,B.1156,Nicolas Faure,08:15,09:00,Entretien candidat,5
+2026-04-24,B.2135,Sarah Richard,08:45,10:15,Réunion équipe,3
+2026-04-24,A.2239,Laurent Dupont,08:45,10:15,Comité de pilotage,5
+2026-04-24,C.1209,Luc Morel,08:45,09:15,Brainstorming,9
+2026-04-24,B.3471,Benoit Blanc,09:00,09:45,Atelier client,6
+2026-04-24,A.1237,Nathalie Bernard,09:45,10:30,Onboarding,3
+2026-04-24,B.3181,Nicolas Faure,10:00,12:00,Réunion équipe,19
+2026-04-24,C.1209,Aurélie Guerin,10:15,11:15,Comité de pilotage,6
+2026-04-24,A.2239,Aurélie Durand,10:45,12:15,Onboarding,7
+2026-04-24,A.4122,Claire Fontaine,11:15,12:15,Comité de pilotage,10
+2026-04-24,B.2135,Sarah Richard,11:45,12:30,Onboarding,5
+2026-04-24,A.4122,Damien Laurent,12:45,13:45,Demo produit,10
+2026-04-24,C.4145,Maxime Roux,12:45,13:15,Daily standup,2
+2026-04-24,B.3471,Mathieu Legrand,13:15,14:15,Onboarding,7
+2026-04-24,A.1237,Lucas Garcia,13:45,15:15,Réunion équipe,10
+2026-04-24,B.1156,Mathieu Legrand,14:30,16:00,Réunion 1-1,7
+2026-04-24,B.3471,Benoit Guerin,15:00,15:45,Entretien candidat,2
+2026-04-24,A.2239,Cédric André,15:00,15:45,Comité de pilotage,10
+2026-04-24,C.4316,Sylvie Gautier,15:00,16:00,Daily standup,11
+2026-04-24,B.2135,Nathalie Vincent,15:15,17:15,Rétrospective,5
+2026-04-24,A.4122,Mathilde Nicolas,15:30,16:30,Comité de pilotage,3
+2026-04-24,C.1209,Claire Moreau,15:30,17:00,Onboarding,8
+2026-04-24,C.4145,Luc François,15:30,17:30,Formation interne,4
+2026-04-24,B.1156,Olivier Perrin,16:00,16:45,Réunion équipe,7
+2026-04-24,A.1237,Claire Dupont,16:15,17:00,Daily standup,7
