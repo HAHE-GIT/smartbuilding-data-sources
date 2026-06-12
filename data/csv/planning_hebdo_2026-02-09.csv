@@ -1,102 +1,109 @@
 date,salle,organisateur,debut,fin,motif,nb_participants_prevu
-2026-02-09,A.2239,Chloé Roux,08:15,09:00,Réunion 1-1,8
-2026-02-09,B.3471,Mathieu François,08:30,10:00,Sprint planning,10
-2026-02-09,B.2135,Aurélie Girard,09:00,09:30,Formation interne,2
-2026-02-09,A.4122,Antoine Simon,09:00,10:30,Rétrospective,2
-2026-02-09,C.1209,Sébastien Henry,09:30,10:00,Brainstorming,4
-2026-02-09,B.3181,Julie Perrin,11:00,14:00,Formation interne,14
-2026-02-09,A.0366,Claire Moreau,11:00,14:00,Revue d'architecture,6
-2026-02-09,A.4122,Jean Durand,11:30,12:15,Entretien candidat,2
-2026-02-09,C.4145,Aurélie Durand,11:45,12:15,Présentation résultats,4
-2026-02-09,C.4145,Charlotte Robin,12:15,13:00,Sprint planning,2
-2026-02-09,B.3471,Claire Lefebvre,13:00,14:30,Sprint planning,3
-2026-02-09,A.2239,Nathalie Dupont,13:00,14:00,Rétrospective,5
-2026-02-09,C.4145,Laurent Dupont,13:00,14:30,Réunion équipe,3
-2026-02-09,B.1156,Justine Leroy,13:45,14:30,Réunion 1-1,7
-2026-02-09,A.4122,Audrey Martin,14:00,16:00,Réunion 1-1,10
-2026-02-09,C.1209,Nicolas Fournier,14:00,15:30,Présentation résultats,5
-2026-02-09,B.3471,Sophie Lefebvre,14:45,15:15,Daily standup,10
-2026-02-09,B.1156,Isabelle Faure,14:45,15:15,Revue d'architecture,6
-2026-02-09,A.1237,Pauline Garnier,14:45,15:30,Présentation résultats,10
-2026-02-09,A.2239,Aurélie Guerin,15:30,16:15,Réunion 1-1,4
-2026-02-09,A.1237,Romain Bertrand,16:00,17:00,Demo produit,3
-2026-02-09,B.2135,Hugo Rousseau,16:15,17:45,Brainstorming,2
-2026-02-09,C.4145,Aurélie Fournier,16:45,17:45,Comité de pilotage,6
-2026-02-10,A.2239,Nicolas Faure,08:15,09:00,Réunion 1-1,2
-2026-02-10,A.4122,Damien Laurent,08:30,10:30,Daily standup,8
-2026-02-10,C.4145,Lucas Garcia,09:00,09:45,Brainstorming,5
-2026-02-10,B.2135,Fabien Lefebvre,09:45,10:30,Demo produit,2
-2026-02-10,A.2239,Inès Martin,09:45,10:15,Rétrospective,2
-2026-02-10,C.1209,Cédric Morel,10:00,12:00,Comité de pilotage,4
-2026-02-10,B.3471,Pierre Leroy,10:15,12:15,Réunion 1-1,4
-2026-02-10,C.4145,Aurélie Fournier,10:15,11:45,Onboarding,5
-2026-02-10,B.2135,Nathalie Dupont,10:30,12:00,Daily standup,4
-2026-02-10,A.1237,Sophie Lefevre,11:00,13:00,Onboarding,4
-2026-02-10,A.2107,Stéphanie Garcia,11:00,14:00,Sprint planning,11
-2026-02-10,B.1156,Marion Robin,13:00,13:30,Réunion équipe,3
-2026-02-10,C.4145,Mathieu Legrand,13:15,14:15,Daily standup,3
-2026-02-10,A.2239,Chloé Roux,13:45,15:45,Atelier client,5
-2026-02-10,A.4122,Thomas Morel,14:00,16:00,Brainstorming,11
-2026-02-10,B.3471,Benoit Robert,14:45,15:45,Brainstorming,10
-2026-02-10,A.1237,Isabelle Morin,14:45,16:15,Atelier client,2
-2026-02-10,C.1209,Élodie Masson,15:00,16:30,Réunion 1-1,8
-2026-02-10,A.3418,Cédric André,15:00,18:00,Comité de pilotage,16
-2026-02-10,B.1156,Sarah Faure,15:15,17:15,Brainstorming,3
-2026-02-11,A.4122,Nicolas Fournier,08:00,09:30,Réunion équipe,7
-2026-02-11,B.3471,Charlotte Durand,08:45,10:15,Revue d'architecture,5
-2026-02-11,C.1209,Chloé Lefevre,09:00,10:30,Réunion équipe,4
-2026-02-11,B.2135,Nicolas Fournier,10:30,11:30,Daily standup,3
-2026-02-11,A.4122,Benoit Girard,10:30,11:15,Rétrospective,10
-2026-02-11,C.4145,Cédric Muller,10:30,11:15,Réunion 1-1,6
-2026-02-11,C.1209,Manon Michel,11:00,12:30,Revue d'architecture,8
-2026-02-11,A.2107,Thomas Bonnet,11:00,12:00,Entretien candidat,16
-2026-02-11,B.1156,Jean Durand,12:00,12:30,Atelier client,3
-2026-02-11,B.3181,Benoit Robert,12:00,15:00,Réunion 1-1,10
-2026-02-11,C.4316,Jean Durand,12:00,14:00,Rétrospective,8
-2026-02-11,B.1156,Aurélie Girard,12:45,14:45,Onboarding,4
-2026-02-11,C.4145,Olivier Roux,12:45,13:45,Atelier client,3
-2026-02-11,A.2239,Sophie Lefebvre,13:45,15:15,Daily standup,6
-2026-02-11,C.4145,Sarah Garcia,14:00,15:30,Comité de pilotage,3
-2026-02-11,B.1156,Christophe David,14:45,16:15,Revue d'architecture,5
-2026-02-11,B.2190,Christophe Mercier,15:00,16:00,Réunion 1-1,11
-2026-02-11,B.2135,Sarah Mercier,15:45,17:15,Atelier client,4
-2026-02-11,C.4145,Charlotte Durand,16:30,17:15,Présentation résultats,2
-2026-02-11,B.3471,Inès Martin,16:45,18:15,Sprint planning,6
-2026-02-11,A.1237,Romain Nicolas,16:45,17:30,Onboarding,6
-2026-02-12,B.2135,Thomas Bonnet,08:00,09:00,Demo produit,5
-2026-02-12,B.3471,Nicolas Fournier,08:45,09:30,Réunion 1-1,10
-2026-02-12,A.1237,Jean Dupont,08:45,10:15,Formation interne,10
-2026-02-12,C.1209,Sarah Mercier,09:00,10:30,Brainstorming,4
-2026-02-12,B.3181,Manon Michel,09:00,12:00,Entretien candidat,9
-2026-02-12,C.4145,Nicolas Faure,09:30,11:30,Entretien candidat,6
-2026-02-12,B.2135,Sarah Faure,09:45,10:30,Rétrospective,2
-2026-02-12,B.3471,Yannick Mathieu,10:00,11:30,Réunion 1-1,8
-2026-02-12,A.2239,Mathieu Robert,10:00,10:30,Rétrospective,3
-2026-02-12,A.2239,Claire Lefebvre,11:00,12:00,Atelier client,5
-2026-02-12,C.4145,Sébastien Mercier,11:30,13:00,Présentation résultats,5
-2026-02-12,A.2239,Nathalie Legrand,12:00,13:30,Onboarding,3
-2026-02-12,B.2135,Sarah Chevalier,12:30,14:00,Onboarding,4
-2026-02-12,A.4122,Nicolas Faure,12:45,13:15,Daily standup,12
-2026-02-12,C.1209,Chloé Lefevre,13:00,13:30,Comité de pilotage,7
-2026-02-12,B.1156,Fabien Boyer,13:15,13:45,Réunion 1-1,7
-2026-02-12,A.4122,Hugo Marchand,14:45,15:45,Demo produit,11
-2026-02-12,B.1156,Audrey Martin,14:45,15:15,Rétrospective,6
-2026-02-12,B.3471,Pauline Garnier,16:00,18:00,Sprint planning,4
-2026-02-12,C.4145,Inès Gautier,16:30,17:00,Brainstorming,3
-2026-02-12,A.1237,Aurélie Girard,16:45,17:30,Brainstorming,7
-2026-02-13,B.3471,Cédric Morel,08:15,09:00,Atelier client,9
-2026-02-13,A.4122,Yannick Mathieu,09:45,10:45,Réunion 1-1,4
-2026-02-13,B.2135,Antoine Simon,10:00,11:30,Réunion équipe,3
-2026-02-13,B.3471,Mathieu Robert,10:00,10:30,Réunion équipe,3
-2026-02-13,A.2239,Nathalie Vincent,11:15,11:45,Rétrospective,3
-2026-02-13,C.1209,Émilie Roussel,12:30,14:30,Réunion équipe,5
-2026-02-13,B.1156,Sophie Clement,12:30,14:00,Demo produit,6
-2026-02-13,B.2135,Mathilde Nicolas,13:30,15:30,Formation interne,2
-2026-02-13,C.4145,Hugo Rousseau,13:45,14:15,Rétrospective,2
-2026-02-13,B.1156,Charlotte Girard,15:15,16:45,Onboarding,7
-2026-02-13,A.1237,Justine Chevalier,15:15,17:15,Daily standup,5
-2026-02-13,A.2239,Justine Leroy,15:30,16:00,Onboarding,3
-2026-02-13,C.4145,Élodie Robin,15:30,16:15,Onboarding,4
-2026-02-13,C.1209,Camille Bonnet,15:45,16:45,Daily standup,5
-2026-02-13,A.4122,Camille Bonnet,16:00,18:00,Brainstorming,12
-2026-02-13,C.1209,Camille Bonnet,16:45,17:30,Réunion équipe,2
+2026-02-09,A.2396,Romain Simon,08:30,09:15,Entretien candidat,3
+2026-02-09,B.0179,Pauline Mathieu,09:00,09:30,Onboarding,6
+2026-02-09,C.3210,Pierre Guerin,09:15,09:45,Rétrospective,2
+2026-02-09,B.1366,Charlotte Guerin,09:15,10:45,Daily standup,2
+2026-02-09,C.2324,Luc Bernard,10:30,11:30,Formation interne,3
+2026-02-09,C.3210,Romain Lambert,10:30,12:30,Comité de pilotage,6
+2026-02-09,B.3232,Mathilde Girard,11:00,12:00,Présentation résultats,16
+2026-02-09,A.0415,Lucas Michel,11:00,12:00,Atelier client,18
+2026-02-09,C.1221,Benoit Morel,12:00,13:30,Rétrospective,3
+2026-02-09,A.4111,Charlotte Guerin,13:00,15:00,Sprint planning,9
+2026-02-09,C.2324,Élodie Blanc,13:15,15:15,Réunion 1-1,10
+2026-02-09,A.0293,Stéphanie Nicolas,13:30,14:15,Présentation résultats,6
+2026-02-09,C.4117,Élodie Blanc,13:45,15:45,Réunion équipe,5
+2026-02-09,B.0179,Isabelle Masson,14:00,15:30,Rétrospective,4
+2026-02-09,C.1221,Isabelle Faure,14:15,14:45,Réunion 1-1,2
+2026-02-09,A.2396,Vincent Bonnet,14:30,16:30,Daily standup,6
+2026-02-09,B.1366,Marion Richard,15:15,16:15,Sprint planning,2
+2026-02-09,C.2324,Pauline Vincent,15:45,16:15,Sprint planning,8
+2026-02-09,B.1213,Marie Masson,16:00,19:00,Formation interne,17
+2026-02-09,A.0293,Laurent Richard,16:15,17:15,Demo produit,9
+2026-02-09,B.1366,Pierre Petit,16:15,17:00,Atelier client,4
+2026-02-09,C.3210,Quentin Gautier,16:30,18:30,Atelier client,3
+2026-02-10,C.4117,Lucas Michel,08:15,09:15,Demo produit,2
+2026-02-10,A.4111,Thomas Morel,09:00,11:00,Formation interne,10
+2026-02-10,C.4117,Marie Masson,09:45,10:30,Rétrospective,2
+2026-02-10,C.2324,Pauline Chevalier,09:45,10:15,Brainstorming,9
+2026-02-10,C.3210,Antoine Marchand,09:45,10:45,Demo produit,2
+2026-02-10,B.0179,Sébastien Lefebvre,10:15,11:45,Formation interne,3
+2026-02-10,A.2396,Yannick Robert,10:30,11:15,Présentation résultats,2
+2026-02-10,C.3210,Sandra Gauthier,10:45,11:30,Sprint planning,3
+2026-02-10,A.0293,Benoit Fontaine,11:15,12:15,Comité de pilotage,4
+2026-02-10,C.4117,Yannick Michel,11:30,13:30,Daily standup,5
+2026-02-10,C.2324,Alexandre Lefevre,11:45,12:15,Comité de pilotage,11
+2026-02-10,C.1221,Pauline Richard,12:45,13:30,Demo produit,6
+2026-02-10,B.3232,Laurent Rousseau,13:00,16:00,Entretien candidat,7
+2026-02-10,C.2324,Élodie Roussel,14:15,16:15,Atelier client,11
+2026-02-10,A.0293,Chloé Garnier,14:15,14:45,Demo produit,9
+2026-02-10,C.1221,Isabelle Faure,14:45,16:15,Onboarding,2
+2026-02-10,B.0179,Mathilde Girard,14:45,15:30,Revue d'architecture,11
+2026-02-10,C.4117,Cédric Durand,14:45,16:15,Revue d'architecture,5
+2026-02-10,B.1366,Pauline Chevalier,14:45,15:30,Rétrospective,4
+2026-02-10,A.2396,Marion Nicolas,14:45,16:15,Formation interne,4
+2026-02-10,B.1366,Caroline Muller,15:45,16:45,Revue d'architecture,3
+2026-02-10,B.0179,Romain Mathieu,16:00,17:00,Rétrospective,6
+2026-02-10,A.0293,Thomas Leroy,16:30,18:00,Réunion 1-1,9
+2026-02-11,C.3210,Manon Lefebvre,08:15,10:15,Onboarding,8
+2026-02-11,A.2396,Élodie Gautier,08:15,10:15,Comité de pilotage,2
+2026-02-11,A.0293,Manon Bertrand,08:45,09:45,Onboarding,4
+2026-02-11,C.4117,Nathalie Durand,09:15,10:15,Revue d'architecture,3
+2026-02-11,C.2324,Inès Moreau,09:30,10:30,Réunion 1-1,5
+2026-02-11,B.1366,Romain Mathieu,11:00,13:00,Atelier client,3
+2026-02-11,C.1221,Pierre Guerin,11:30,12:15,Comité de pilotage,5
+2026-02-11,B.0179,Isabelle Girard,13:30,15:30,Présentation résultats,10
+2026-02-11,C.4117,Antoine Marchand,13:30,14:15,Daily standup,5
+2026-02-11,A.2396,Sarah Gautier,13:30,15:00,Rétrospective,3
+2026-02-11,C.1221,Frédéric Bernard,13:45,14:45,Brainstorming,3
+2026-02-11,A.0293,Émilie Boyer,13:45,14:30,Formation interne,6
+2026-02-11,B.1366,Maxime Masson,13:45,14:15,Comité de pilotage,2
+2026-02-11,A.4111,Camille Rousseau,14:00,16:00,Comité de pilotage,10
+2026-02-11,C.2324,Maxime Masson,14:15,15:15,Onboarding,3
+2026-02-11,C.1221,Maxime Gautier,15:00,17:00,Daily standup,2
+2026-02-11,C.2324,Romain Mathieu,15:15,16:00,Formation interne,4
+2026-02-11,B.1366,Benoit Fontaine,15:30,16:15,Comité de pilotage,2
+2026-02-11,B.0179,Claire Petit,16:30,18:30,Revue d'architecture,4
+2026-02-11,C.3210,Charlotte Guerin,16:45,17:45,Sprint planning,8
+2026-02-12,C.4117,Justine Robin,08:15,09:45,Rétrospective,2
+2026-02-12,C.2324,Mathilde Gautier,08:15,09:00,Réunion 1-1,11
+2026-02-12,A.0293,Jean Leroy,09:00,11:00,Réunion 1-1,5
+2026-02-12,C.1221,Laurent Richard,10:15,11:15,Rétrospective,2
+2026-02-12,C.2324,Mathilde Girard,10:15,10:45,Revue d'architecture,3
+2026-02-12,B.1366,Stéphanie Laurent,10:45,12:15,Revue d'architecture,3
+2026-02-12,A.2396,Aurélie Durand,11:00,11:30,Entretien candidat,5
+2026-02-12,C.3210,Cédric Richard,11:30,12:15,Atelier client,6
+2026-02-12,A.0293,Jean Laurent,11:45,13:45,Comité de pilotage,8
+2026-02-12,C.2324,Antoine Robert,12:00,12:45,Présentation résultats,8
+2026-02-12,B.0179,Lucas Henry,12:30,13:15,Demo produit,11
+2026-02-12,B.1213,Marion Fontaine,13:00,14:00,Formation interne,8
+2026-02-12,C.1221,Sarah Martin,13:15,13:45,Brainstorming,3
+2026-02-12,C.2324,Sophie Michel,14:00,14:45,Formation interne,7
+2026-02-12,C.4117,Julie Henry,15:00,16:30,Sprint planning,5
+2026-02-12,C.3210,Sandra Gauthier,15:00,16:30,Atelier client,8
+2026-02-12,B.1366,Émilie Boyer,15:15,15:45,Entretien candidat,4
+2026-02-12,C.1221,Stéphanie Nicolas,16:15,16:45,Daily standup,6
+2026-02-12,C.3210,Florian Dupuis,16:45,17:30,Sprint planning,2
+2026-02-12,B.1366,Émilie Richard,16:45,18:15,Présentation résultats,2
+2026-02-13,C.3210,Quentin Gautier,08:30,09:00,Brainstorming,6
+2026-02-13,A.2396,Sandra Gauthier,09:00,10:00,Revue d'architecture,6
+2026-02-13,C.4117,Pauline Richard,09:15,09:45,Entretien candidat,4
+2026-02-13,C.2324,Thomas Leroy,09:30,10:00,Comité de pilotage,2
+2026-02-13,C.2324,Antoine Muller,10:00,11:00,Sprint planning,3
+2026-02-13,B.1415,Julie Henry,10:00,13:00,Demo produit,13
+2026-02-13,C.1221,Caroline Faure,10:15,10:45,Réunion équipe,4
+2026-02-13,C.4117,Inès Dupuis,10:30,12:00,Sprint planning,4
+2026-02-13,B.1366,Romain Mathieu,10:30,11:15,Demo produit,3
+2026-02-13,B.0179,Léa Roussel,11:15,12:15,Demo produit,6
+2026-02-13,C.1221,Élodie Garcia,12:00,13:00,Atelier client,2
+2026-02-13,A.0293,Pauline Vincent,12:15,13:45,Rétrospective,7
+2026-02-13,A.2396,Antoine Muller,13:15,13:45,Brainstorming,4
+2026-02-13,C.3210,Émilie Richard,13:45,14:45,Onboarding,3
+2026-02-13,A.0293,Julie Henry,14:00,14:45,Réunion équipe,3
+2026-02-13,B.1366,Sandra Gauthier,14:15,15:15,Atelier client,4
+2026-02-13,A.2396,Sarah Clement,14:15,15:15,Réunion 1-1,4
+2026-02-13,B.0179,Pauline Chevalier,15:00,16:00,Brainstorming,12
+2026-02-13,C.4117,Isabelle Faure,15:00,16:30,Atelier client,4
+2026-02-13,A.4111,Sarah Martin,15:00,16:00,Revue d'architecture,5
+2026-02-13,A.0293,Mathieu Richard,15:15,17:15,Formation interne,10
+2026-02-13,B.0179,Élodie Roussel,16:00,17:30,Sprint planning,3
+2026-02-13,A.2396,Alexandre Chevalier,16:45,17:15,Réunion équipe,4
