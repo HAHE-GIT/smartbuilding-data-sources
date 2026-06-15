@@ -1,19 +1,22 @@
 date,salle,organisateur,debut,fin,motif,nb_participants_prevu
-2026-06-10,C.4117,Stéphanie Laurent,08:15,09:00,Présentation résultats,4
-2026-06-10,C.1221,Quentin Lefebvre,08:30,10:00,Demo produit,3
-2026-06-10,C.2324,Fabien Richard,09:00,09:30,Présentation résultats,6
-2026-06-10,B.0179,Caroline Lambert,09:30,10:00,Rétrospective,10
-2026-06-10,C.3210,Cédric Durand,09:45,10:30,Comité de pilotage,3
-2026-06-10,A.2396,Émilie Richard,09:45,10:15,Onboarding,6
-2026-06-10,C.4117,Élodie Garcia,10:45,11:30,Brainstorming,3
-2026-06-10,A.2396,Pierre Petit,11:15,13:15,Réunion équipe,5
-2026-06-10,C.1221,Vincent Muller,12:15,13:45,Réunion équipe,6
-2026-06-10,A.0293,Jean Leroy,12:15,14:15,Réunion équipe,7
-2026-06-10,C.2324,Stéphanie Henry,13:00,13:30,Onboarding,12
-2026-06-10,B.0179,Sophie Moreau,14:45,15:45,Rétrospective,7
-2026-06-10,C.2324,Sarah Martin,15:30,16:15,Entretien candidat,10
-2026-06-10,C.3210,Christophe Morel,15:30,16:30,Réunion équipe,6
-2026-06-10,B.1366,Romain Moreau,15:30,16:00,Revue d'architecture,4
-2026-06-10,C.2324,Maxime Blanc,16:30,18:00,Réunion 1-1,3
-2026-06-10,B.1366,Élodie Clement,16:30,18:00,Revue d'architecture,2
-2026-06-10,A.0293,Antoine Muller,16:45,17:45,Revue d'architecture,9
+2026-06-10,B.1366,Sarah Rousseau,08:30,10:00,Revue d'architecture,2
+2026-06-10,C.3210,Marion Morel,09:15,10:15,Demo produit,2
+2026-06-10,C.1221,Yannick Michel,09:30,10:15,Daily standup,2
+2026-06-10,C.4117,Pierre Durand,09:45,11:15,Réunion équipe,2
+2026-06-10,C.2324,Sébastien Lefebvre,10:00,12:00,Sprint planning,7
+2026-06-10,A.2396,Justine Mathieu,10:15,11:00,Formation interne,4
+2026-06-10,C.3210,Claire Robert,10:30,11:15,Réunion 1-1,6
+2026-06-10,A.0293,Mathieu Fournier,10:30,11:00,Daily standup,2
+2026-06-10,C.1221,Élodie Gautier,11:30,13:00,Onboarding,6
+2026-06-10,B.0179,Mathieu Lefebvre,11:30,12:15,Atelier client,8
+2026-06-10,A.2396,Claire Petit,12:00,12:45,Demo produit,3
+2026-06-10,B.1415,Marion François,12:00,13:00,Onboarding,17
+2026-06-10,A.2396,Marie Masson,12:45,14:15,Atelier client,5
+2026-06-10,C.4117,Mathilde Gautier,13:15,14:00,Rétrospective,2
+2026-06-10,C.3210,Laurent Richard,13:30,15:00,Revue d'architecture,5
+2026-06-10,B.0179,Émilie Leroy,13:45,14:15,Atelier client,5
+2026-06-10,B.1366,Manon Bertrand,14:30,15:30,Entretien candidat,2
+2026-06-10,A.0293,Léa Roussel,15:00,17:00,Sprint planning,5
+2026-06-10,B.3232,Sébastien Lefebvre,15:00,17:00,Réunion 1-1,15
+2026-06-10,B.0179,Marie Roux,15:15,17:15,Revue d'architecture,7
+2026-06-10,C.4117,Antoine Robert,15:30,17:00,Demo produit,2
